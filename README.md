@@ -45,3 +45,9 @@ The bottom bar contains an input for commands, as well as buttons to either copy
 
 Once a command is added to the list, it can be moved up or down, copied, removed, or edited.
 
+Command edit popout:
+![command edit popout image](https://github.com/thecolonel63/Java-Command-Stacker/blob/main/command_stacker_pics/command_edit_popup.png?raw=true)
+
+Once you are done modifying the list, you can save it by clicking the "Copy to Clipboard" button:
+![command copied to clipboard image](https://github.com/thecolonel63/Java-Command-Stacker/blob/main/command_stacker_pics/command_copied_to_clipboard.png?raw=true)
+
