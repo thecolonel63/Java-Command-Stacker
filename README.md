@@ -1,6 +1,12 @@
 # Java-Command-Stacker
 A simple command stacker for 1.17 and up. 
 
+Building:
+
+1) Download the project.
+2) Run "gradlew shadowJar" inside the root of the project.
+3) The completed jarfile will appear in "app/build/libs".
+
 Credit to https://github.com/etiennestuder/java-ordered-properties for a simple way of making the properties in the config file ordered.
 
 ![file menu image](https://github.com/thecolonel63/Java-Command-Stacker/raw/main/command_stacker_pics/file_menu.png?raw=true)
