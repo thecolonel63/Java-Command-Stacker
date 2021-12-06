@@ -4,9 +4,12 @@ A simple command stacker for 1.17 and up.
 Credit to https://github.com/etiennestuder/java-ordered-properties for a simple way of making the properties in the config file ordered.
 
 ![alt text](https://github.com/thecolonel63/Java-Command-Stacker/raw/main/command_stacker_pics/file_menu.png?raw=true)
+
 To start, this can read .mcfunction files to add multiple commands at a time. You can access this via File -> Open .mcfunction file
 
 This contains a few configuration options:
+
+![alt text](https://github.com/thecolonel63/Java-Command-Stacker/raw/main/command_stacker_pics/options_menu.png?raw=true)
 
 "Disable wrapping /summon command inside spawn egg" - Disables the built in wrapping of the /summon command for a more generalized use.
 "Keep stack on completion instead of removing" - Stops the command tower from clearing itself away - Useful if you use setblock commands on the tower blocks themselves, i.e for use of setting the tower blocks to a repeating - chain command block tower.
