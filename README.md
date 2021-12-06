@@ -3,6 +3,8 @@ A simple command stacker for 1.17 and up.
 
 Credit to https://github.com/etiennestuder/java-ordered-properties for a simple way of making the properties in the config file ordered.
 
+![alt text](https://variety.com/wp-content/uploads/2021/07/Rick-Astley-Never-Gonna-Give-You-Up.png?w=1024)
+
 To start, this can read .mcfunction files to add multiple commands at a time. You can access this via File -> Open .mcfunction file
 
 This contains a few configuration options:
