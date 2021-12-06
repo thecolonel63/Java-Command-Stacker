@@ -51,3 +51,8 @@ Command edit popout:
 Once you are done modifying the list, you can save it by clicking the "Copy to Clipboard" button:
 ![command copied to clipboard image](https://github.com/thecolonel63/Java-Command-Stacker/blob/main/command_stacker_pics/command_copied_to_clipboard.png?raw=true)
 
+Warning for /give command longer than 256 characters:
+![command copied to clipboard image](https://github.com/thecolonel63/Java-Command-Stacker/blob/main/command_stacker_pics/256_length_warning.png?raw=true)
+
+Warning for /give command longer than maximum packet size:
+![command copied to clipboard image](https://github.com/thecolonel63/Java-Command-Stacker/blob/main/command_stacker_pics/long_packet_warning.png?raw=true)
